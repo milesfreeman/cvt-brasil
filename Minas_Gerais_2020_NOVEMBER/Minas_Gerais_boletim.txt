@@ -1,0 +1,430 @@
+Abadia dos Dourados 100 1 Careaçu 160 3
+Abaeté 73 3 Carlos Chagas 398 6
+Abre Campo 113 1 Carmésia 11 -
+Acaiaca 51 2 Carmo da Cachoeira 65 -
+Açucena 97 4 Carmo da Mata 30 1
+Água Boa 59 1 Carmo de Minas 104 2
+Água Comprida 23 - Carmo do Cajuru 116 7
+Aguanil 94 3 Carmo do Paranaíba 320 8
+Águas Formosas 320 8 Carmo do Rio Claro 80 4
+Águas Vermelhas 79 - Carmópolis de Minas 296 9
+Aimorés 378 7 Carneirinho 159 2
+Aiuruoca 15 4 Carrancas 29 1
+Alagoa 28 - Carvalhópolis 30 -
+Albertina 47 4 Carvalhos 30 -
+Além Paraíba 511 16 Casa Grande 1 1
+Alfenas 1967 55 Cascalho Rico 25 1
+Alfredo Vasconcelos 17 1 Cássia 198 5
+Almenara 892 11 Cataguases 754 43
+Alpercata 187 6 Catas Altas 70 2
+Alpinópolis 126 4 Catas Altas da Noruega 18 -
+Alterosa 25 2 Catuji 89 -
+Alto Caparaó 20 1 Catuti 12 1
+Alto Jequitibá 90 4 Caxambu 210 5
+Alto Rio Doce 72 2 Cedro do Abaeté - -
+Alvarenga 135 1 Central de Minas 113 5
+Alvinópolis 73 1 Centralina 197 4
+Alvorada de Minas 59 1 Chácara 27 -
+Amparo do Serra 11 1 Chalé 147 6
+Andradas 473 16 Chapada do Norte 4 -
+Andrelândia 70 - Chapada Gaúcha 69 -
+Angelândia 19 - Chiador 94 1
+Antônio Carlos 73 2 Cipotânea 21 -
+Antônio Dias 117 3 Claraval 53 1
+Antônio Prado de Minas 13 - Claro dos Poções 47 1
+Araçaí 5 - Cláudio 464 6
+Aracitaba 4 - Coimbra 51 -
+Araçuaí 107 2 Coluna 20 1
+Araguari 4334 102 Comendador Gomes 167 1
+Arantina 21 1 Comercinho 38 1
+Araponga 1 - Conceição da Aparecida 25 3
+Araporã 895 9 Conceição da Barra de Minas 54 -
+Arapuá 35 - Conceição das Alagoas 1005 26
+Araújos 76 1 Conceição das Pedras 30 -
+Araxá 2431 37 Conceição de Ipanema 53 1
+Arceburgo 85 2 Conceição do Mato Dentro 750 2
+Arcos 525 13 Conceição do Pará 60 3
+Areado 24 3 Conceição do Rio Verde 40 1
+Argirita 23 2 Conceição dos Ouros 119 6
+Aricanduva 2 - Cônego Marinho 9 -
+Arinos 120 2 Confins 62 1
+Astolfo Dutra 163 3 Congonhal 200 3
+Ataléia 167 4 Congonhas 1419 16
+Augusto de Lima 39 - Congonhas do Norte 26 -
+Baependi 143 5 Conquista 201 5
+Baldim 67 5 Conselheiro Lafaiete 1166 13
+Bambuí 78 1 Conselheiro Pena 354 4
+Bandeira 197 1 Consolação 8 -
+Bandeira do Sul 45 1 Contagem 9792 417
+Barão de Cocais 761 6 Coqueiral 42 1
+Barão de Monte Alto 62 3 Coração de Jesus 111 1
+Barbacena 1072 20 Cordisburgo 59 2
+Barra Longa 90 - Cordislândia 48 -
+Barroso 191 2 Corinto 218 5
+Bela Vista de Minas 86 1 Coroaci 57 2
+Belmiro Braga 23 2 Coromandel 261 5
+Belo Horizonte 47385 1505 Coronel Fabriciano 3833 80
+Belo Oriente 724 9 Coronel Murta 1 -
+Belo Vale 94 3 Coronel Pacheco 40 1
+Berilo 6 - Coronel Xavier Chaves 17 -
+Berizal 8 - Córrego Danta 13 -
+Bertópolis 83 - Córrego do Bom Jesus 57 3
+Betim 7118 237 Córrego Fundo 45 1
+Bias Fortes 15 1 Córrego Novo 13 5
+Bicas 70 1 Couto de Magalhães de Minas 7 -
+Biquinhas 28 - Crisólita 46 1
+Boa Esperança 378 19 Cristais 190 2
+Bocaina de Minas 13 2 Cristália 48 -
+Bocaiúva 447 7 Cristiano Otoni 43 1
+Bom Despacho 741 19 Cristina 38 1
+Bom Jardim de Minas 14 - Crucilândia 94 2
+Bom Jesus da Penha 97 1 Cruzeiro da Fortaleza 7 -
+Bom Jesus do Amparo 35 2 Cruzília 95 1
+Bom Jesus do Galho 131 5 Cuparaque 60 2
+Bom Repouso 87 6 Curral de Dentro 41 1
+Bom Sucesso 42 1 Curvelo 919 30
+Bonfim 68 2 Datas 41 1
+Bonfinópolis de Minas 146 6 Delfim Moreira 60 4
+Bonito de Minas 6 - Delfinópolis 26 1
+Borda da Mata 369 17 Delta 474 5
+Botelhos 98 1 Descoberto 50 -
+Botumirim 3 - Desterro de Entre Rios 46 1
+Brás Pires 7 1 Desterro do Melo 9 -
+Brasilândia de Minas 336 1 Diamantina 164 6
+Brasília de Minas 197 5 Diogo de Vasconcelos 21 -
+Braúnas 15 2 Dionísio 40 -
+Brazópolis 269 3 Divinésia 40 1
+Brumadinho 1205 15 Divino 108 6
+Bueno Brandão 78 5 Divino das Laranjeiras 85 2
+Buenópolis 88 3 Divinolândia de Minas 13 1
+Bugre 68 1 Divinópolis 1881 69
+Buritis 405 3 Divisa Alegre 32 1
+Buritizeiro 301 7 Divisa Nova 64 2
+Cabeceira Grande 45 2 Divisópolis 45 1
+Cabo Verde 49 1 Dom Bosco 77 3
+Cachoeira da Prata 51 1 Dom Cavati 60 7
+Cachoeira de Minas 214 3 Dom Joaquim 136 -
+Cachoeira de Pajeú 207 2 Dom Silvério 25 1
+Cachoeira Dourada 19 - Dom Viçoso 2 -
+Caetanópolis 115 3 Dona Euzébia 31 1
+Caeté 479 17 Dores de Campos 84 2
+Caiana 15 2 Dores de Guanhães 43 1
+Cajuri 65 - Dores do Indaiá 221 3
+Caldas 123 3 Dores do Turvo 5 1
+Camacho 3 - Doresópolis 53 1
+Camanducaia 579 11 Douradoquara 16 1
+Cambuí 428 9 Durandé 51 2
+Cambuquira 37 2 Elói Mendes 209 3
+Campanário 21 - Engenheiro Caldas 97 6
+Campanha 202 7 Engenheiro Navarro 30 -
+Campestre 220 4 Entre Folhas 69 2
+Campina Verde 151 6 Entre Rios de Minas 55 2
+Campo Azul 30 - Ervália 179 4
+Campo Belo 1227 30 Esmeraldas 423 17
+Campo do Meio 148 2 Espera Feliz 244 15
+Campo Florido 227 - Espinosa 243 12
+Campos Altos 141 6 Espírito Santo do Dourado 68 4
+Campos Gerais 212 6 Estiva 151 3
+Cana Verde 92 2 Estrela Dalva 15 2
+Canaã 1 - Estrela do Indaiá 5 -
+Canápolis 411 12 Estrela do Sul 70 -
+Candeias 108 3 Eugenópolis 237 5
+Cantagalo 16 - Ewbank da Câmara 11 -
+Caparaó 49 3 Extrema 2612 28
+Capela Nova 13 1 Fama 25 -
+Capelinha 233 3 Faria Lemos 48 2
+Capetinga 62 1 Felício dos Santos 8 1
+Capim Branco 78 2 Felisburgo 50 3
+Capinópolis 572 8 Felixlândia 101 2
+Capitão Andrade 107 5 Fernandes Tourinho 17 4
+Capitão Enéas 152 3 Ferros 121 1
+Capitólio 82 3 Fervedouro 101 1
+Caputira 83 - Florestal 85 3
+Caraí 145 5 Formiga 887 14
+Caranaíba 6 1 Formoso 86 2
+Carandaí 142 3 Fortaleza de Minas 8 -
+Carangola 646 30 Fortuna de Minas 19 -
+Caratinga 1812 67 Francisco Badaró 3 -
+Carbonita 7 - Francisco Dumont 20 3
+Francisco Sá 240 3 Luisburgo 76 5
+Franciscópolis 11 - Luislândia 14 -
+Frei Gaspar 74 1 Luminárias 36 3
+Frei Inocêncio 281 7 Luz 187 5
+Frei Lagonegro 14 1 Machacalis 97 2
+Fronteira 404 8 Machado 183 7
+Fronteira dos Vales 16 1 Madre de Deus de Minas 50 1
+Fruta de Leite 29 1 Malacacheta 236 3
+Frutal 2035 62 Mamonas 10 -
+Funilândia 26 1 Manga 186 5
+Galiléia 77 4 Manhuaçu 1880 44
+Gameleiras 43 1 Manhumirim 588 14
+Glaucilândia 17 1 Mantena 647 14
+Goiabeira 32 1 Mar de Espanha 75 7
+Goianá 37 - Maravilhas 28 1
+Gonçalves 19 1 Maria da Fé 140 7
+Gonzaga 37 3 Mariana 2348 22
+Gouveia 111 3 Marilac 68 1
+Governador Valadares 8484 295 Mário Campos 129 9
+Grão Mogol 85 1 Maripá de Minas 25 -
+Grupiara 5 - Marliéria 37 2
+Guanhães 286 3 Marmelópolis 4 -
+Guapé 69 2 Martinho Campos 116 4
+Guaraciaba 31 - Martins Soares 60 5
+Guaraciama 9 1 Mata Verde 163 3
+Guaranésia 311 7 Materlândia 2 1
+Guarani 30 - Mateus Leme 354 11
+Guarará 8 1 Mathias Lobato 86 1
+Guarda-Mor 108 - Matias Barbosa 182 8
+Guaxupé 965 16 Matias Cardoso 45 1
+Guidoval 83 - Matipó 343 6
+Guimarânia 155 3 Mato Verde 75 3
+Guiricema 166 3 Matozinhos 414 8
+Gurinhatã 40 1 Matutina 84 3
+Heliodora 61 1 Medeiros 24 1
+Iapu 146 7 Medina 279 5
+Ibertioga 1 - Mendes Pimentel 58 1
+Ibiá 260 4 Mercês 30 1
+Ibiaí 13 - Mesquita 66 1
+Ibiracatu 24 - Minas Novas 47 1
+Ibiraci 109 8 Minduri 3 -
+Ibirité 2135 69 Mirabela 106 2
+Ibitiúra de Minas 97 - Miradouro 176 2
+Ibituruna 2 - Miraí 238 3
+Icaraí de Minas 24 1 Miravânia 5 -
+Igarapé 510 15 Moeda 108 -
+Igaratinga 46 3 Moema 163 2
+Iguatama 107 1 Monjolos 8 -
+Ijaci 27 2 Monsenhor Paulo 27 -
+Ilicínea 19 3 Montalvânia 145 -
+Imbé de Minas 55 1 Monte Alegre de Minas 522 9
+Inconfidentes 83 6 Monte Azul 270 5
+Indaiabira 40 - Monte Belo 18 4
+Indianópolis 131 - Monte Carmelo 505 9
+Ingaí 13 3 Monte Formoso 13 -
+Inhapim 297 17 Monte Santo de Minas 150 6
+Inhaúma 91 1 Monte Sião 313 7
+Inimutaba 64 2 Montes Claros 11515 174
+Ipaba 444 17 Montezuma 9 -
+Ipanema 252 7 Morada Nova de Minas 37 -
+Ipatinga 9819 223 Morro da Garça 11 2
+Ipiaçu 56 1 Morro do Pilar 6 -
+Ipuiúna 157 4 Munhoz 72 4
+Iraí de Minas 82 3 Muriaé 3427 75
+Itabira 3052 22 Mutum 412 6
+Itabirinha 113 5 Muzambinho 97 2
+Itabirito 2872 19 Nacip Raydan 51 1
+Itacambira 8 1 Nanuque 1276 43
+Itacarambi 197 3 Naque 100 4
+Itaguara 367 5 Natalândia 18 1
+Itaipé 22 - Natércia 48 1
+Itajubá 1525 59 Nazareno 20 1
+Itamarandiba 131 1 Nepomuceno 152 3
+Itamarati de Minas 38 1 Ninheira 42 -
+Itambacuri 135 4 Nova Belém 22 2
+Itambé do Mato Dentro 5 1 Nova Era 181 4
+Itamogi 79 4 Nova Lima 4028 41
+Itamonte 334 6 Nova Módica 83 2
+Itanhandu 281 8 Nova Ponte 340 11
+Itanhomi 121 4 Nova Porteirinha 66 2
+Itaobim 292 7 Nova Resende 167 1
+Itapagipe 230 9 Nova Serrana 1222 49
+Itapecerica 200 6 Nova União 37 -
+Itapeva 514 14 Novo Cruzeiro 143 3
+Itatiaiuçu 353 6 Novo Oriente de Minas 150 3
+Itaú de Minas 282 5 Novorizonte 6 2
+Itaúna 1263 27 Olaria 5 -
+Itaverava 10 - Olhos-D'água 10 -
+Itinga 42 3 Olímpio Noronha 18 -
+Itueta 489 1 Oliveira 340 8
+Ituiutaba 3797 89 Oliveira Fortes 2 -
+Itumirim 15 - Onça de Pitangui 26 -
+Iturama 1146 28 Oratórios 22 -
+Itutinga 14 1 Orizânia 27 3
+Jaboticatubas 359 9 Ouro Branco 509 5
+Jacinto 248 3 Ouro Fino 271 6
+Jacuí 179 6 Ouro Preto 913 35
+Jacutinga 352 12 Ouro Verde de Minas 24 3
+Jaguaraçu 87 3 Padre Carvalho 53 1
+Jaíba 474 7 Padre Paraíso 381 3
+Jampruca 40 1 Pai Pedro 20 1
+Janaúba 1159 16 Paineiras 7 -
+Januária 279 6 Pains 88 1
+Japaraíba 32 - Paiva 2 -
+Japonvar 58 1 Palma 42 4
+Jeceaba 30 2 Palmópolis 47 2
+Jenipapo de Minas 3 - Papagaios 224 1
+Jequeri 10 1 Pará de Minas 736 14
+Jequitaí 65 3 Paracatu 2455 39
+Jequitibá 39 1 Paraguaçu 165 4
+Jequitinhonha 132 5 Paraisópolis 196 9
+Jesuânia 51 4 Paraopeba 347 7
+Joaíma 207 4 Passa Quatro 202 10
+Joanésia 63 2 Passa Tempo 86 2
+João Monlevade 1528 14 Passabém 6 1
+João Pinheiro 662 6 Passa-Vinte 9 -
+Joaquim Felício 25 1 Passos 1312 28
+Jordânia 185 3 Patis 33 -
+José Gonçalves de Minas 5 - Patos de Minas 2787 77
+José Raydan 18 - Patrocínio 2073 42
+Josenópolis 84 - Patrocínio do Muriaé 41 3
+Juatuba 418 13 Paula Cândido 29 -
+Juiz de Fora 6959 268 Paulistas 8 -
+Juramento 28 - Pavão 33 2
+Juruaia 246 4 Peçanha 58 2
+Juvenília 93 1 Pedra Azul 135 10
+Ladainha 52 1 Pedra Bonita 44 2
+Lagamar 100 - Pedra do Anta 4 -
+Lagoa da Prata 947 20 Pedra do Indaiá 93 1
+Lagoa dos Patos 20 - Pedra Dourada 14 -
+Lagoa Dourada 54 2 Pedralva 23 1
+Lagoa Formosa 505 15 Pedras de Maria da Cruz 63 1
+Lagoa Grande 31 - Pedrinópolis 69 1
+Lagoa Santa 684 10 Pedro Leopoldo 807 19
+Lajinha 572 16 Pedro Teixeira - -
+Lambari 202 5 Pequeri 23 1
+Lamim 6 - Pequi 24 1
+Laranjal 34 3 Perdigão 177 5
+Lassance 40 - Perdizes 396 5
+Lavras 464 28 Perdões 243 4
+Leandro Ferreira 44 3 Periquito 98 7
+Leme do Prado 2 - Pescador 42 1
+Leopoldina 868 33 Piau 10 1
+Liberdade 5 - Piedade de Caratinga 76 2
+Lima Duarte 168 11 Piedade de Ponte Nova 35 2
+Limeira do Oeste 233 1 Piedade do Rio Grande 27 2
+Lontra 25 3 Piedade dos Gerais 71 3
+Pimenta 23 - São Gonçalo do Rio Preto 3 -
+Pingo-D'água 47 1 São Gonçalo do Sapucaí 115 4
+Pintópolis 17 1 São Gotardo 1281 29
+Piracema 55 1 São João Batista do Glória 123 5
+Pirajuba 172 2 São João da Lagoa 26 -
+Piranga 77 9 São João da Mata 30 1
+Piranguçu 56 2 São João da Ponte 91 9
+Piranguinho 134 4 São João das Missões 48 1
+Pirapetinga 514 6 São João Del Rei 816 21
+Pirapora 1380 19 São João do Manhuaçu 117 9
+Piraúba 56 2 São João do Manteninha 142 1
+Pitangui 299 7 São João do Oriente 117 7
+Piumhi 457 10 São João do Pacuí 6 -
+Planura 281 5 São João do Paraíso 139 1
+Poço Fundo 149 2 São João Evangelista 66 2
+Poços de Caldas 1509 42 São João Nepomuceno 199 8
+Pocrane 72 3 São Joaquim de Bicas 419 30
+Pompéu 337 2 São José da Barra 68 -
+Ponte Nova 645 12 São José da Lapa 380 10
+Ponto Chique 32 - São José da Safira 177 1
+Ponto dos Volantes 91 3 São José da Varginha 22 -
+Porteirinha 551 15 São José do Alegre 15 -
+Porto Firme 125 7 São José do Divino 43 -
+Poté 142 5 São José do Goiabal 35 -
+Pouso Alegre 3217 74 São José do Jacuri 66 -
+Pouso Alto 74 2 São José do Mantimento 115 2
+Prados 24 2 São Lourenço 488 10
+Prata 666 22 São Miguel do Anta 51 1
+Pratápolis 118 5 São Pedro da União 24 -
+Pratinha 45 - São Pedro do Suaçuí 69 1
+Presidente Bernardes 5 1 São Pedro dos Ferros 48 2
+Presidente Juscelino 40 1 São Romão 35 2
+Presidente Kubitschek 14 - São Roque de Minas 29 -
+Presidente Olegário 168 7 São Sebastião da Bela Vista 81 3
+Prudente de Morais 91 2 São Sebastião da Vargem Alegre 23 -
+Quartel Geral 13 - São Sebastião do Anta 26 1
+Queluzito 9 1 São Sebastião do Maranhão 17 -
+Raposos 449 6 São Sebastião do Oeste 112 2
+Raul Soares 81 3 São Sebastião do Paraíso 963 31
+Recreio 78 4 São Sebastião do Rio Preto 27 1
+Reduto 148 1 São Sebastião do Rio Verde 2 -
+Resende Costa 72 - São Thomé das Letras - -
+Resplendor 534 8 São Tiago 24 3
+Ressaquinha 6 - São Tomás de Aquino 57 3
+Riachinho 67 2 São Vicente de Minas 17 -
+Riacho dos Machados 52 1 Sapucaí-Mirim 43 1
+Ribeirão das Neves 4001 155 Sardoá 48 1
+Ribeirão Vermelho 18 - Sarzedo 438 11
+Rio Acima 279 4 Sem-Peixe 10 1
+Rio Casca 163 5 Senador Amaral 76 2
+Rio do Prado 31 2 Senador Cortes 16 -
+Rio Doce 10 - Senador Firmino 29 2
+Rio Espera 22 2 Senador José Bento 30 2
+Rio Manso 83 3 Senador Modestino Gonçalves 1 1
+Rio Novo 42 3 Senhora de Oliveira 7 -
+Rio Paranaíba 616 9 Senhora do Porto 17 -
+Rio Pardo de Minas 201 1 Senhora dos Remédios 34 -
+Rio Piracicaba 331 2 Sericita 13 -
+Rio Pomba 76 2 Seritinga 2 -
+Rio Preto 15 - Serra Azul de Minas 1 -
+Rio Vermelho 5 - Serra da Saudade 6 -
+Ritápolis 8 - Serra do Salitre 195 3
+Rochedo de Minas 18 1 Serra dos Aimorés 242 7
+Rodeiro 186 1 Serrania 42 1
+Romaria 47 1 Serranópolis de Minas 15 -
+Rosário da Limeira 38 - Serranos 8 -
+Rubelita 6 1 Serro 145 3
+Rubim 26 1 Sete Lagoas 3164 59
+Sabará 1375 63 Setubinha 43 1
+Sabinópolis 25 - Silveirânia 5 -
+Sacramento 823 20 Silvianópolis 36 3
+Salinas 669 14 Simão Pereira 15 -
+Salto da Divisa 54 1 Simonésia 174 5
+Santa Bárbara 621 8 Sobrália 56 6
+Santa Bárbara do Leste 104 5 Soledade de Minas 11 -
+Santa Bárbara do Monte Verde 3 -
+Tabuleiro 10 1
+Santa Bárbara do Tugúrio 5 - Taiobeiras 337 7
+Santa Cruz de Minas 69 4 Taparuba 61 1
+Santa Cruz de Salinas 19 2 Tapira 67 1
+Santa Cruz do Escalvado 32 1 Tapiraí 33 -
+Santa Efigênia de Minas 31 3 Taquaraçu de Minas 50 4
+Santa Fé de Minas 16 - Tarumirim 74 8
+Santa Helena de Minas 55 2 Teixeiras 36 1
+Santa Juliana 495 19 Teófilo Otoni 2530 101
+Santa Luzia 2113 102 Timóteo 2408 82
+Santa Margarida 286 4 Tiradentes 31 1
+Santa Maria de Itabira 77 3 Tiros 25 2
+Santa Maria do Salto 12 - Tocantins 220 6
+Santa Maria do Suaçuí 104 5 Tocos do Moji 17 -
+Santa Rita de Caldas 214 6 Toledo 106 5
+Santa Rita de Ibitipoca 1 - Tombos 223 2
+Santa Rita de Jacutinga 19 1 Três Corações 890 31
+Santa Rita de Minas 169 4 Três Marias 285 9
+Santa Rita do Itueto 282 2 Três Pontas 750 14
+Santa Rita do Sapucaí 467 19 Tumiritinga 42 2
+Santa Rosa da Serra 15 - Tupaciguara 646 14
+Santa Vitória 417 3 Turmalina 76 1
+Santana da Vargem 45 2 Turvolândia 16 1
+Santana de Cataguases 30 - Ubá 2033 60
+Santana de Pirapama 46 2 Ubaí 50 -
+Santana do Deserto 66 1 Ubaporanga 275 6
+Santana do Garambéu 5 - Uberaba 7793 209
+Santana do Jacaré 17 4 Uberlândia 35029 672
+Santana do Manhuaçu 116 1 Umburatiba 17 -
+Santana do Paraíso 2356 29 Unaí 2685 55
+Santana do Riacho 27 - União de Minas 111 2
+Santana dos Montes 8 - Uruana de Minas 19 -
+Santo Antônio do Amparo 116 2 Urucânia 173 1
+Santo Antônio do Aventureiro 16 3 Urucuia 51 3
+Santo Antônio do Grama 13 1 Vargem Alegre 120 2
+Santo Antônio do Itambé 25 - Vargem Bonita 9 1
+Santo Antônio do Jacinto 404 10 Vargem Grande do Rio Pardo 25 -
+Santo Antônio do Monte 453 12 Varginha 1319 42
+Santo Antônio do Retiro 82 1 Varjão de Minas 73 1
+Santo Antônio do Rio Abaixo 16 - Várzea da Palma 546 9
+Santo Hipólito 32 - Varzelândia 95 3
+Santos Dumont 276 10 Vazante 777 5
+São Bento Abade 4 - Verdelândia 39 -
+São Brás do Suaçuí 19 - Veredinha 1 -
+São Domingos das Dores 28 3 Veríssimo 44 1
+São Domingos do Prata 70 3 Vermelho Novo 30 1
+São Félix de Minas 51 - Vespasiano 1349 39
+São Francisco 376 16 Viçosa 554 4
+São Francisco de Paula 55 - Vieiras 23 1
+São Francisco de Sales 136 4 Virgem da Lapa 47 1
+São Francisco do Glória 35 1 Virgínia 36 1
+São Geraldo 50 5 Virginópolis 29 -
+São Geraldo da Piedade 44 5 Virgolândia 25 1
+São Geraldo do Baixio 15 3 Visconde do Rio Branco 860 20
+São Gonçalo do Abaeté 32 1 Volta Grande 24 1
+São Gonçalo do Pará 75 2 Wenceslau Braz 42 -
+São Gonçalo do Rio Abaixo 284 5 Outros Estado/país 2337 79
+# http://coronavirus.saude.mg.gov.br/images/boletim/10-outubro/29/05-10-Boletim-Epidemiologico_COVID.pdf
+
